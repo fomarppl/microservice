@@ -1,0 +1,4 @@
+micronaut:
+  application:
+    name: microservice
+hystrix.stream.enabled: false
